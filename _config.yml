@@ -1,5 +1,7 @@
-title: Cayman theme
+title: yoya
 description: Cayman is a clean, responsive theme for GitHub Pages.
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-cayman
+baseurl: / # the subpath of your site, e.g. /blog
+url: https://jackcc777.github.io/yoya/ # the base hostname & protocol for your site, e.g. http://example.com
